@@ -612,8 +612,6 @@ Transform:
   m_Father: {fileID: 133799754}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< HEAD
-=======
 --- !u!4 &297767788 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 405050, guid: 40f85fbf483918e44862a63a0bc4bd2a,
